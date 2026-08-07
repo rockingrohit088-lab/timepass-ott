@@ -1,1 +1,0 @@
-web: gunicorn netflix_backend.wsgi
