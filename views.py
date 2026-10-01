@@ -18,3 +18,8 @@ def home(request):
 def play_movie(request, movie_id):
     movie = get_object_or_404(Movie, pk=movie_id)
     return render(request, 'play.html', {'movie': movie})
+    def play real world (100*80)
+    jawan 2026 ( 10080 hd )
+    pathan 2026 (10080 hd )
+    bajrangi baijaan (10080 hd)
+    
